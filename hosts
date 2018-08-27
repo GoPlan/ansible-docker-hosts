@@ -1,0 +1,4 @@
+[dockers]
+docker-01 ansible_user=ubuntu
+
+[dockers:vars]
